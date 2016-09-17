@@ -1,0 +1,9 @@
+作者：		walidake
+
+Java版本： 	jdk1.8
+
+需要的jar包：	pom文件中给出
+
+com.walidake.static_proxy			静态代理
+com.walidake.dynamic_proxy.proxy	动态代理Java Proxy相关
+com.walidake.dynamic_proxy.cglib	动态代理cglib相关

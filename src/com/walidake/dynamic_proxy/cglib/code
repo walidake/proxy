@@ -1,0 +1,66 @@
+public class Walidake$$EnhancerByCGLIB$$d8d9733e extends com.walidake.dynamic_proxy.cglib.Walidake {
+  public Walidake$$EnhancerByCGLIB$$d8d9733e();
+
+  public final boolean equals(Object);
+
+  public final java.lang.String toString();
+
+  public final int hashCode();
+
+  protected final java.lang.Object clone();
+
+  public java.lang.Object newInstance(Callback[]);
+
+  public java.lang.Object newInstance(Class[], Object[], Callback[]);
+
+  public java.lang.Object newInstance(Callback);
+
+  public final void marry();
+
+  public void setCallback(int, Callback);
+
+  public void setCallbacks(Callback[]);
+
+  public static void CGLIB$SET_STATIC_CALLBACKS(Callback[]);
+
+  public static void CGLIB$SET_THREAD_CALLBACKS(Callback[]);
+
+  public net.sf.cglib.proxy.Callback getCallback(int);
+
+  public [Lnet.sf.cglib.proxy.Callback; getCallbacks();
+
+  final java.lang.Object CGLIB$clone$4();
+
+  final void CGLIB$marry$0();
+
+  final boolean CGLIB$equals$1(Object);
+
+  final java.lang.String CGLIB$toString$2();
+
+  final int CGLIB$hashCode$3();
+
+  static void CGLIB$STATICHOOK1();
+
+  private static final void CGLIB$BIND_CALLBACKS(Object);
+
+  public static net.sf.cglib.proxy.MethodProxy CGLIB$findMethodProxy(Signature);
+
+
+  private boolean CGLIB$BOUND;
+  public static Object CGLIB$FACTORY_DATA;
+  private static final ThreadLocal CGLIB$THREAD_CALLBACKS;
+  private static final Callback[] CGLIB$STATIC_CALLBACKS;
+  private MethodInterceptor CGLIB$CALLBACK_0;
+  private static Object CGLIB$CALLBACK_FILTER;
+  private static final Method CGLIB$marry$0$Method;
+  private static final MethodProxy CGLIB$marry$0$Proxy;
+  private static final Object[] CGLIB$emptyArgs;
+  private static final Method CGLIB$equals$1$Method;
+  private static final MethodProxy CGLIB$equals$1$Proxy;
+  private static final Method CGLIB$toString$2$Method;
+  private static final MethodProxy CGLIB$toString$2$Proxy;
+  private static final Method CGLIB$hashCode$3$Method;
+  private static final MethodProxy CGLIB$hashCode$3$Proxy;
+  private static final Method CGLIB$clone$4$Method;
+  private static final MethodProxy CGLIB$clone$4$Proxy;
+}
